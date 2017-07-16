@@ -1,0 +1,22 @@
+{
+  "name": "antlr-proc-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "arrayp": "^1.1.0",
+    "convict": "^4.0.0",
+    "debug": "^2.6.8",
+    "kue": "^0.11.6",
+    "temp-dir": "^1.0.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.12.6",
+    "mocha": "^3.4.2"
+  }
+}
